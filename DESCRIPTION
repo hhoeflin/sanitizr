@@ -1,6 +1,6 @@
 Package: sanitizr
 Title: Package to clean the workspace in an R session
-Version: 0.1.0
+Version: 0.1.0.9000
 Authors@R: person("Holger", "Hoefling", email = "hhoeflin@gmail.com", role = c("aut", "cre"))
 Description: This package cleans the workspace of an R session by removing items in the 
 	     global environment, detaches items on the search path, detaches attached packages
