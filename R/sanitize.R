@@ -13,7 +13,7 @@
 ##' @author Holger Hoefling
 ##' @importFrom utils sessionInfo
 ##' @importFrom tools package_dependencies
-##' @importFrom tools installed.packages
+##' @importFrom utils installed.packages
 ##' @export
 sanitize <- function(keep_global=keep$global, keep_search=keep$search,
                            keep_packages=keep$packages, keep_namespaces=keep$namespaces,
