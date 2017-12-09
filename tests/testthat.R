@@ -1,4 +1,4 @@
 library(testthat)
-library(ConfigParser)
+library(sanitizr)
 
 test_check("sanitizr")
