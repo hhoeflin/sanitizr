@@ -16,8 +16,6 @@ subset of ‘c("Depends", "Imports", "LinkingTo", "Suggests",
 "Enhances")’.  Character string ‘"all"’ is shorthand for that
 vector, character string ‘"most"’ for the same vector without
 ‘"Enhances"’.}
-
-\item{inst_pkgs}{The installed packages as returned by \code{installed.packages}}
 }
 \value{
 A data frame with the column 'pkg' giving the name of the package and 'level', by which the dataframe is sorted from lowest to highest.

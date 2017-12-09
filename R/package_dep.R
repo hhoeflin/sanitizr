@@ -12,7 +12,6 @@
 ##' "Enhances")’.  Character string ‘"all"’ is shorthand for that
 ##' vector, character string ‘"most"’ for the same vector without
 ##' ‘"Enhances"’.
-##' @param inst_pkgs The installed packages as returned by \code{installed.packages}
 ##' @return A data frame with the column 'pkg' giving the name of the package and 'level', by which the dataframe is sorted from lowest to highest.
 ##' @author Holger Hoefling
 ##' @importFrom tools package_dependencies
